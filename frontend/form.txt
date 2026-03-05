@@ -1,0 +1,102 @@
+{
+    "process": "duplicate",
+    "formData": {
+        "shareholders": [
+            {
+                "personalDetails": {
+                    "name": "Priyanshu",
+                    "fatherName": "lkjdalsk",
+                    "panNumber": "sdfgh",
+                    "dematAccount": "sdfghj"
+                },
+                "contactDetails": {
+                    "address": "01 TDB College Road, Raniganj, West Bengal 713347, India",
+                    "pinCode": "713347",
+                    "mobile": "sdfgh",
+                    "email": "ertyuj@gmail.com"
+                },
+                "bankDetails": {
+                    "accountNumber": "123",
+                    "name": "jlkjlk",
+                    "branch": "sdfgh",
+                    "ifscCode": "edfghbn"
+                }
+            }
+        ],
+        "securities": [
+            {
+                "certificateNumber": "21",
+                "distinctiveFrom": "213",
+                "distinctiveTo": "214",
+                "shares": "1"
+            }
+        ],
+        "companyInfo": {
+            "name": "Campanjkjk",
+            "address": "21 dtfgh"
+        },
+        "rtaInfo": {
+            "name": "Ritedh",
+            "address": "lkjdalkj"
+        },
+        "documents": [
+            {
+                "id": "auth-letter",
+                "name": "Authentication Letter",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "request-letter",
+                "name": "Request Letter",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "isr-1",
+                "name": "ISR 1",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "sh-13",
+                "name": "SH - 13",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "isr-4",
+                "name": "ISR 4",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "form-a",
+                "name": "Form A",
+                "required": false,
+                "selected": true
+            },
+            {
+                "id": "form-b-indemnity",
+                "name": "Form B Indemnity",
+                "required": false,
+                "selected": true
+            }
+        ],
+        "otherInfo": {
+            "formDate": "21-03-2029",
+            "folioNumber": "sdrftgvhbjn",
+            "faceValue": "21"
+        },
+        "totalShares": 1
+    },
+    "selectedFiles": [
+        "auth-letter",
+        "request-letter",
+        "isr-1",
+        "sh-13",
+        "isr-4",
+        "form-a",
+        "form-b-indemnity"
+    ]
+}

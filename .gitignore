@@ -1,0 +1,50 @@
+###################################
+# Python Backend
+###################################
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Pytest
+.pytest_cache/
+
+# Output folder (generated docs)
+backend/app/output/
+
+# Zip test files
+*.zip
+
+###################################
+# React Frontend
+###################################
+
+node_modules/
+frontend/node_modules/
+
+build/
+frontend/build/
+
+# Environment files
+frontend/.env
+frontend/.env.*
+
+###################################
+# IDE / Editor
+###################################
+
+.vscode/
+.idea/
+
+###################################
+# OS Files
+###################################
+
+.DS_Store
+Thumbs.db
